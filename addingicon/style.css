@@ -1,0 +1,26 @@
+button {
+	/*width: 80px;*/
+	border:2px;
+	padding: 10px;
+	border-radius: 6px;
+	outline:none;
+	cursor:pointer;
+	color:white;
+	
+}
+
+#btn-facebook {
+	background-color: #3b5999;
+}
+
+#btn-google{
+	background-color: #dd4b33;
+}
+
+#btn-github{
+	background-color: #000;
+}
+
+.label{
+	padding-left: 8px;
+}

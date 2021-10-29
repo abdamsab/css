@@ -1,0 +1,22 @@
+body {
+	background: none;
+}
+
+h2 {
+	color:blue;
+	text-align: center; /* justify, right,left*/
+	text-tansform: capitalize; /* lowercase, uppercase */
+	font-style: italic;
+	text-decoration: underline; /* overline, line-through, none*/
+	
+} 
+
+
+p {
+	color: red;
+	font-weight: 600;
+	letter-spacing: 2px;
+	word-spacing:0px;
+	line-height:1px;
+	/*font-family: sans-serif;*/
+}
